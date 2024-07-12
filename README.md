@@ -6,7 +6,7 @@ How we create a fast-test architecture from scratch.
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/ronb-tech/books.git)
 
 # Navigate into the directory
 cd reaktivate-tdd-challenge-1-sample-begin
