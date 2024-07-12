@@ -18,3 +18,5 @@ npm install
 # start the proj
 
 npm start
+
+# Make sure you are using Node.js version 16 or earlier
